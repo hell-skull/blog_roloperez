@@ -1,6 +1,6 @@
 ---
 title: Hola
-date: 2023-06-22 00:00:00 -0400
+date: 2024-06-22 00:00:00 -0400
 categories: [homelab]
 tags: [saludo]
 ---
